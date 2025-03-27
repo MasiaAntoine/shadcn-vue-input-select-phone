@@ -1,10 +1,12 @@
-### Feature description
-
-# InputSelectPhone
+# Shadcn vuejs 3 - Input Select Phone
 
 A sleek and functional Vue 3 component for phone number input with country selection.
 
 I am a French developer, I apologize if my English translation is not good.
+
+## 🎥 Preview
+
+![Preview](https://raw.githubusercontent.com/MasiaAntoine/shadcn-vue-input-select-phone/refs/heads/main/src/assets/anim.gif)
 
 ## ✨ Features
 
