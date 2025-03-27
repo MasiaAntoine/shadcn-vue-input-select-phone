@@ -7,7 +7,6 @@ const phoneFormats = ref()
 
 <template>
   <div class="flex flex-col items-center justify-center h-screen bg-gray-800 text-white space-y-4">
-    <!-- 2. Utilisation du composant avec écoute de l'emit -->
     <InputSelectPhone
       default-country="fr"
       placeholder="Téléphone"
