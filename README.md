@@ -46,17 +46,26 @@ The component offers several style variants:
 
 The component automatically generates multiple phone number formats:
 
-- International format with spaces
-- International format without spaces
-- International format with dashes
-- International format with dots
-- National format with spaces
-- National format without spaces
-- National format with dashes
-- National format with dots
-- Compact international format
-- Compact national format
-- E.164 format
+```json
+{
+  "isValid": true,
+  "country": "France",
+  "country_code": "+33",
+  "country_initial": "fr",
+  "country_flag": "🇫🇷",
+  "international_with_spaces": "+33 60 10 20 30 4",
+  "international_without_spaces": "+33601020304",
+  "international_with_dashes": "+33-60-10-20-30-4",
+  "international_with_dots": "+33.60.10.20.30.4",
+  "national_with_spaces": "06 01 02 03 04",
+  "national_without_spaces": "0601020304",
+  "national_with_dashes": "06-01-02-03-04",
+  "national_with_dots": "06.01.02.03.04",
+  "compact_international": "+33 601020304",
+  "compact_national": "0601020304",
+  "E164": "+33601020304"
+}
+```
 
 ## 💡 Usage
 
