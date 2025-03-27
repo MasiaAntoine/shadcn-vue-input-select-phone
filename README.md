@@ -25,10 +25,21 @@ I am a French developer, I apologize if my English translation is not good.
 
 This component requires the following ShadCN components:
 
-- pnpm dlx shadcn-vue@latest add combobox
-- pnpm dlx shadcn-vue@latest add button
-- pnpm dlx shadcn-vue@latest add command
-- pnpm dlx shadcn-vue@latest add input
+- ```bash
+  pnpm dlx shadcn-vue@latest add combobox
+  ```
+
+- ```bash
+  pnpm dlx shadcn-vue@latest add button
+  ```
+
+- ```bash
+  pnpm dlx shadcn-vue@latest add command
+  ```
+
+- ```bash
+  pnpm dlx shadcn-vue@latest add input
+  ```
 
 Then, copy the folder `src/components/ui/input-select-phone` into your own `src/components/ui/` directory.
 
@@ -111,3 +122,11 @@ const phoneFormats = ref()
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull
+
+```
+
+```
+
+```
+
+```
