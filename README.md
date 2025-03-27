@@ -129,6 +129,10 @@ const phoneFormats = ref()
 | `variant`           | `'default' \| 'error'`      | `'default'`            | Visual variant             |
 | `size`              | `'default' \| 'sm' \| 'lg'` | `'default'`            | Component size             |
 
+## 📦 Built with
+
+This project uses components from [shadcn/ui](https://github.com/shadcn-ui/ui).
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull
