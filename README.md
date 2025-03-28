@@ -131,8 +131,7 @@ const phoneFormats = ref()
 
 ## 📦 Built with
 
-This project uses components from [shadcn/ui](https://github.com/shadcn-ui/ui).
-@shadcn-ui
+This project uses components from [shadcn/vue](https://github.com/unovue/shadcn-vue).
 
 ## 🤝 Contributing
 
