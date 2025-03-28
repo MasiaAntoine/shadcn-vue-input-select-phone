@@ -18,7 +18,7 @@ export const countries = [
     label: 'Allemagne',
     code: '+49',
     flag: '🇩🇪',
-    format: ['code régional + ccc ccc ccc', '1cc ccc cc ccc'],
+    format: ['ccc ccc ccc', '1cc ccc cc ccc'],
   },
   {
     value: 'it',
@@ -60,7 +60,7 @@ export const countries = [
     label: 'Argentine',
     code: '+54',
     flag: '🇦🇷',
-    format: ['code régional + ccc-cccc', '9 + code régional + ccc-cccc'],
+    format: ['ccc-cccc', '9 + ccc-cccc'],
   },
   {
     value: 'am',
@@ -235,7 +235,7 @@ export const countries = [
     label: 'Russie',
     code: '+7',
     flag: '🇷🇺',
-    format: ['code régional + ccc-cc-cc'],
+    format: ['ccc-cc-cc'],
   },
   {
     value: 'cz',
